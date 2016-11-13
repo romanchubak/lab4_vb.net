@@ -1,0 +1,14 @@
+E:\mathfuck\вба\lab4_vb\lab4_vb\bin\Debug\lab4_vb.exe.config
+E:\mathfuck\вба\lab4_vb\lab4_vb\bin\Debug\lab4_vb.exe
+E:\mathfuck\вба\lab4_vb\lab4_vb\bin\Debug\lab4_vb.pdb
+E:\mathfuck\вба\lab4_vb\lab4_vb\bin\Debug\lab4_vb.xml
+E:\mathfuck\вба\lab4_vb\lab4_vb\obj\Debug\lab4_vb.vbprojResolveAssemblyReference.cache
+E:\mathfuck\вба\lab4_vb\lab4_vb\obj\Debug\lab4_vb.Resources.resources
+E:\mathfuck\вба\lab4_vb\lab4_vb\obj\Debug\lab4_vb.vbproj.GenerateResource.Cache
+E:\mathfuck\вба\lab4_vb\lab4_vb\obj\Debug\lab4_vb.exe
+E:\mathfuck\вба\lab4_vb\lab4_vb\obj\Debug\lab4_vb.xml
+E:\mathfuck\вба\lab4_vb\lab4_vb\obj\Debug\lab4_vb.pdb
+E:\mathfuck\вба\lab4_vb\lab4_vb\obj\Debug\Interop.AccWizObjects.dll
+E:\mathfuck\вба\lab4_vb\lab4_vb\obj\Debug\Interop.MSDAOSP.dll
+E:\mathfuck\вба\lab4_vb\lab4_vb\obj\Debug\Interop.MSDASC.dll
+E:\mathfuck\вба\lab4_vb\lab4_vb\obj\Debug\lab4_vb.vbproj.ResolveComReference.cache
